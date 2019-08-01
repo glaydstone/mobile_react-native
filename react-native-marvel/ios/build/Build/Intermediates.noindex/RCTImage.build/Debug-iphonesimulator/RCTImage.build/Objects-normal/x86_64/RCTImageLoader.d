@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/erayaydogdu/Desktop/Projects/rn-workshop/node_modules/react-native/Libraries/Image/RCTImageUtils.h

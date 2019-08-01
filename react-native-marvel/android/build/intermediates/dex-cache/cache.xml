@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_90728e57ced3087901f185b5ed08ba949c8d878d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6f9fc866c625fdd629b30dc6bfb224c3707514c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_4e40b61b5947cc5dfe437a9db11424402d2d23a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c32b751762704cc41abfb5e03d603885b28a0a8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c065e3d76524cba048755556fee23a1d90c6c663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_07a234300015f09b0b20fc69dde05615c9a80a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_5e97fef23f1d1e3379147933f6b80416a5f62c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_7ec4c00845b1caddd6d807a68dd162c5797498e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_8f14179f621f942ac1b6b225bbe087da5fd3ac15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_1e874221bc80e1e6ee7b284eb053f6c27d38ea17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_989c949f58db323c36a12a1739f0efa564eff81a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_2bcc79cb95944503647fc0845defe8ade14890c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_11097698b9708de0b3daec1f1b4943ba87d580a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_5fc84584b77cc030c87e1d7313de7b41ee5187e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_df7ce8417539b1888dd564420d6594ca60f72a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_88433db17cb4e9ff2c0e05ff71947ce640eb2994.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7113fc725c33960d18887606eb7d725cab8a30bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_92c8577e8daf1655a229577d74cf9a2aa3e310e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5833230481aa55b7140dc21fd5ddc4e8180179e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_a57c60f781e8930207f02a192cedaad03713d040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/glaydstone/Desenv/www/react-native-marvel/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_f575078e4939796ebce8293e20cb2cd7ddd3d8fb.jar" />
+    </item>
+
+</items>
